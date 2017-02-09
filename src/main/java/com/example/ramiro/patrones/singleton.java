@@ -11,6 +11,6 @@ public class singleton extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_singleton);
 
-        Button button;
+        Button button2;
     }
 }
